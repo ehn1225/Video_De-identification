@@ -7,14 +7,16 @@
 <h2>Preparation</h2>
 이 프로그램을 사용하기 위해서 python과 OpenCV가 필요합니다.
 <p>pip install opencv-python opencv-contrib-python</p>
-추가적으로, YOLO를 사용하기 위해서는 YOLO의 yolov3.cfg, yolov3.weights, coco.names 파일이 필요합니다. 아래 링크에서 다운로드 가능합니다.<br>
-<p>yolov3.cfg, yolov3.weights : https://pjreddie.com/darknet/yolo/</p>
-<p>coco.names : https://github.com/pjreddie/darknet/blob/master/data/coco.names</p>
+추가적으로, YOLO를 사용하기 위해서는 YOLO의 yolov3.cfg, yolov3.weights, coco.names 파일이 필요합니다.<br>
+아래 링크에서 다운로드 가능합니다.<br>
+<p>yolov3.cfg, yolov3.weights : https://pjreddie.com/darknet/yolo/<br>
+coco.names : https://github.com/pjreddie/darknet/blob/master/data/coco.names<p>
 
 <h2>기능</h2>
 사람 비식별화(모자이크 처리), 모자이크 처리된 영상 저장<br>
 
 <h2>Reference</h2>
-https://yeko90.tistory.com/entry/opencv-yolov3-사용-방법
-https://pjreddie.com/darknet/yolo/
-https://github.com/pjreddie/darknet/blob/master/data/coco.names
+https://yeko90.tistory.com/entry/opencv-yolov3-사용-방법<br>
+https://pjreddie.com/darknet/yolo/<br>
+https://github.com/pjreddie/darknet/blob/master/data/coco.names<br>
+https://pixabay.com/ko/videos/<br>

@@ -15,6 +15,9 @@ coco.names : https://github.com/pjreddie/darknet/blob/master/data/coco.names<p>
 <h2>기능</h2>
 사람 비식별화(모자이크 처리), 모자이크 처리된 영상 저장<br>
 
+<h2>실행 화면</h2>
+<img src="https://github.com/ehn1225/Video_De-identification/assets/5174517/29403668-1e0e-4b2e-98ca-f798f227ee31" width="642" height="752">
+
 <h2>Reference</h2>
 https://yeko90.tistory.com/entry/opencv-yolov3-사용-방법<br>
 https://pjreddie.com/darknet/yolo/<br>
